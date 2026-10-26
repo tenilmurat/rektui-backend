@@ -1,3 +1,5 @@
+> **This repository has moved.** Rekt UI now lives in one repository: [tenilmurat/rekt-ui](https://github.com/tenilmurat/rekt-ui) — this project is [`apps/api`](https://github.com/tenilmurat/rekt-ui/tree/main/apps/api). This one is archived and read-only.
+
 # rektui-backend
 
 The API behind [rektui-frontend](https://github.com/tenilmurat/rektui-frontend):
